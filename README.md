@@ -41,11 +41,12 @@ A system for managing restaurant operations including billing, inventory, staff 
 * Git & GitHub
 * Full-Stack Development
 
-  ## 📊 GitHub Contributions
 
-I regularly work on projects, improve existing features, fix bugs, and learn through hands-on development.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=deepa435)](https://github.com/deepa435)
+## 🐍 My GitHub Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/deepa435/deepa435/output/github-contribution-grid-snake.svg)
+
 
 
 ## 🎯 Career Goal
